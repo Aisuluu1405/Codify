@@ -10,3 +10,6 @@ https://colab.research.google.com/drive/1CU3KF9wI4pNLs167BU8_2CH0snUj0LFo?usp=sh
 HW_2_2
 https://colab.research.google.com/drive/1Yo94OaQz8X9N_DzrRz-_d-PN2K4LmruS?usp=sharing
 
+HW_2_3
+https://colab.research.google.com/drive/1gJy3wVzH2k_ewINIuBdP7xOdNhn7vX-Z?usp=sharing
+
