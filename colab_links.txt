@@ -16,3 +16,5 @@ https://colab.research.google.com/drive/1gJy3wVzH2k_ewINIuBdP7xOdNhn7vX-Z?usp=sh
 HW_2_4
 https://colab.research.google.com/drive/11Oe7astb1StiOnaic16zRNVKr_xD0b5Z?usp=sharing
 
+HW_EDA
+https://colab.research.google.com/drive/1tQgVYJ0ubmaEMK9GCAm6LrelC_naMQHx?usp=sharing
