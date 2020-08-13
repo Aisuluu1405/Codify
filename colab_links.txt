@@ -18,3 +18,6 @@ https://colab.research.google.com/drive/11Oe7astb1StiOnaic16zRNVKr_xD0b5Z?usp=sh
 
 HW_EDA
 https://colab.research.google.com/drive/1tQgVYJ0ubmaEMK9GCAm6LrelC_naMQHx?usp=sharing
+
+HW_2_5
+https://colab.research.google.com/drive/1dsRfOa4ww9l1-_CLNFpByiP2y42yCY6Q?usp=sharing
